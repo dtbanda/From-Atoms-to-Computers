@@ -50,5 +50,5 @@ The next upload I post will begin our journey into the world of maths, science a
 
 Cheers!
 
-[Substack]([url](https://open.substack.com/pub/dalitsob/p/atoms-to-computers-an-introduction?r=60hvp1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true))
+[Substack](https://open.substack.com/pub/dalitsob/p/atoms-to-computers-an-introduction?r=60hvp1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 [YouTube](https://www.youtube.com/@dalitsob)
