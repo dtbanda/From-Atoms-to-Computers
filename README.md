@@ -49,3 +49,6 @@ Notes and practical exercises will accompany these lessons. Sign up for my newsl
 The next upload I post will begin our journey into the world of maths, science and electronics. We’ll start at the very beginning—with the structure of atoms and the nature of electric charge.
 
 Cheers!
+
+[Substack]([url](https://open.substack.com/pub/dalitsob/p/atoms-to-computers-an-introduction?r=60hvp1&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true))
+[YouTube](https://www.youtube.com/@dalitsob)
